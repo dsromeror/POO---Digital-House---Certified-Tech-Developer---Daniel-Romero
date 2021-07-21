@@ -40,3 +40,20 @@ pesos.
 
 El programa intensivo FullStack que posee ambas materias y cuyo porcentaje de
 bonificación es de 20% tiene un precio final de 54.400 pesos.
+
+# UML
+
+![img.png](img.png)
+
+# Desafio II
+
+Modelar y desarrollar los cambios necesarios para incorporar la posibilidad de sumar
+talleres y carreras.
+
+Los talleres y las carreras tienen las mismas características que cualquier oferta académica
+y el precio de los talleres depende de la cantidad de trabajos prácticos durante la cursada
+cuyo valor de cada trabajo práctico depende de cada taller en particular.
+
+Por otro lado, el precio de una carrera consiste en un valor básico + la suma del precio de
+todos los cursos y talleres. Los cursos que se incorporen a una carrera no pueden tener una carga horaria inferior a las 10hs, se deberá arrojar una excepción en caso de querer
+incorporar una materia menor a 10hs.

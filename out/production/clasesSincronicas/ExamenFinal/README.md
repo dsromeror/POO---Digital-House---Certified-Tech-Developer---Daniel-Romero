@@ -23,3 +23,7 @@ Servicio simple: “Venta de aire acondicionado” que tiene un precio de 65.000
 Servicio simple: “Colocación” que tiene un precio base de 10.000 pesos y final de 11.000 por ser un servicio de “Colocación”.
 
 Combo de servicios: contiene los dos servicios simples anteriores, este combo tiene un descuento del 10%, es decir, un precio de 68.400 pesos.
+
+# UML
+
+![img.png](img.png)

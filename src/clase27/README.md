@@ -1,4 +1,4 @@
-#Ejercicio
+# Ejercicio
 Un local de venta online posee productos para la venta. Este tiene un nombre de
 fantasía, mail y teléfono de contacto. Los productos cuentan con un código, una
 descripción y el costo de cada uno. El precio de venta se calcula aplicando un recargo
@@ -14,5 +14,5 @@ nombre, apellido y un mail de contacto.
 El local debe calcular el total de la compra de un cliente y mostrar un mensaje con el
 resumen de la venta (datos del cliente, productos e importe total).
 
-#UML
+# UML
 ![img.png](img.png)
